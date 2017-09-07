@@ -1,2 +1,2 @@
 # Ways2_Pwn
-Describe Multiple Exploit Techniques Via Pwnable Challeges~
+Describe Multiple Exploit Techniques Via Pwnable Challenges~
